@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-## %repoDescritpion%
+## lvmc dspic33ck256mp508 lx34050 foc
 
 Board Image if any.
 
