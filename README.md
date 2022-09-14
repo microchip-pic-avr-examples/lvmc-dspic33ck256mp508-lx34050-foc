@@ -8,7 +8,7 @@
 This document describes the use of the LX34050 inductive position sensor in providing an accurate rotor position for the FOC drive technique. There are two code versions included in this project: LX_LVMC_HURST_FOC_PLL.X uses the PLL estimator for determining all the offsets (sin, cos, and theta), while LX_LVMC_HURST_FOC_Manual.X uses the manual method for obtaining the offsets. Both MPLAB X projects use the same algorithm for calculating the theta from sin and cos signals, and measuring the speed. 
 
 ## Related Documentation
-LX34050 Inductive Position Sensor-Based Field Oriented Control of Three-Phase BLDC Motor application note
+Field Oriented Control of a Three-Phase BLDC Motor using a Rotary Inductive Position Sensor  application note
 
 ## Software Used for Developing and Testing the Firmware
 * MPLAB® X IDE v5.50
