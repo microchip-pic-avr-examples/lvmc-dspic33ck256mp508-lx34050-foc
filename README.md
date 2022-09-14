@@ -32,7 +32,7 @@ The diagram below illustrates the connection of the LX34050 Integrated circuit a
 ![image](images/sensor_board.PNG)
 
 ### Placing the Target Wheel to the Shaft
-1. Remove the back cover of the short hurst motor and attach the sensor wheel to the shaft as shown in the figure below:
+1. Remove the back cover of the short hurst motor and attach the sensor wheel to the shaft as shown in the figure below.
 <img src="images/front_side_view.PNG" height = 50% width = 50%>
 
 2. Screw the sensor board and connect the phase winding wires and sensor wires.  
