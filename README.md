@@ -28,13 +28,14 @@ LX34050 Inductive Position Sensor-Based Field Oriented Control of Three-Phase BL
 ## Hardware Configuration
 ### Sensor Board Setup 
 The diagram below illustrates the connection of the LX34050 Integrated circuit and the dsPIC signal controller while the images show the actual placement of the sensor board and target wheel on the hurst motor. 
-<img src=images/sensor_board.png>
+<img src="images/sensor_board.png">
 
 ### Placing the Target Wheel to the Shaft
 1. Remove the back cover of the short hurst motor and attach the sensor wheel to the shaft as shown in the figure below:
-<img src=images/front_side_view.png height = 50% width = 50% >
+<img src="images/front_side_view.png" height = 50% width = 50% >
 2. Screw the sensor board and connect the phase winding wires and sensor wires.  
-<img src=images/wire_con.png height = 45% width = 45% > <img src=images/wire_conn.png height = 33% width = 33% > 
+<img src="images/wire_con.png" height = 45% width = 45% >" " <img src="images/wire_conn.png" height = 33% width = 33% > 
+
 ### LVMC Hardware Interface
 * **LED11 for telling the direction of rotation.**
     - Lit up in Clockwise direction and turn off in counterclockwise. 
