@@ -1,9 +1,9 @@
-# lvmc-dspic33ck256mp508-lx34050-foc v1.0.0
+# lvmc-dspic33ck256mp508-lx34050-foc v1.0.1
 ### Release Highlights
-This is the first version of code for LX34050 Inductive Position Sensor-Based Field Oriented Control of  Three-Phase BLDC Motor. The code is setup for running Hurst075(AC300020) motor.
+This is the first version of code for Field Oriented Control of a Three-Phase BLDC Motor using a Rotary Inductive Position Sensor. The code is setup for running Hurst075(AC300020) motor.
 
 
 ### Features Added\Updated
 
-
+Edited the meta data file for MPLAB Discover deployment. 
 
